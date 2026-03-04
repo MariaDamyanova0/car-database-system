@@ -1,4 +1,4 @@
-# OOP Coursework - Cars Management
+# Car Management System (C++ OOP)
 
 This project demonstrates the use of **Object-Oriented Programming (OOP)** concepts in C++, focusing on classes, constructors, destructors, static members, and arrays of objects.
 
@@ -34,4 +34,15 @@ This project demonstrates the use of **Object-Oriented Programming (OOP)** conce
    ```bash
    g++ Cars.cpp source.cpp -o CarsProgram
 
+---
+
+## Example Output
+
+```
+Brand: BMW
+Model: M3
+Color: Black
+Engine: 3.0
+Price: 65000
+```
 
